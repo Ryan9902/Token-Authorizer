@@ -12,6 +12,7 @@
 
 # Credits
 Made by @switch_3301 on discord
+https://discord.gg/asteroidz
 
 # Note
 Make sure to put correct details etc on the authorizer to get the desired output
